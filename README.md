@@ -15,8 +15,7 @@ predict risk of diabetes
 ![alt text](https://github.com/sesankm/diabetes_prediction/blob/main/plots/age_dist.png)
 ![alt text](https://github.com/sesankm/diabetes_prediction/blob/main/plots/corr.png)
 
-# Models
-MAE of models trained with Google stock data
-* <strong>SVC</strong>: MSE=.09
-* <strong>Ridge Classifier</strong>: MSE=.09
-* <strong>Neural Network</strong>: MSE=.07
+# Model Performance
+<strong>SVC</strong>: MSE=.09 <br>
+<strong>Ridge Classifier</strong>: MSE=.09 <br>
+<strong>Neural Network</strong>: MSE=.07 <br>
