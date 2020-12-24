@@ -12,7 +12,7 @@ predict risk of diabetes
 
 ## EDA
 ![alt text](https://github.com/sesankm/diabetes_prediction/blob/main/plots/gender.png)
-![alt text](https://github.com/sesankm/diabetes_prediction/blob/main/plots/age_dist.png)
+![alt text](https://github.com/sesankm/diabetes_prediction/blob/main/plots/diabetes_age_dist.png)
 ![alt text](https://github.com/sesankm/diabetes_prediction/blob/main/plots/corr.png)
 
 # Model Performance
